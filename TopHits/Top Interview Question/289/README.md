@@ -2,7 +2,7 @@
  * @Author: Nettor
  * @Date: 2020-06-24 13:43:02
  * @LastEditors: Nettor
- * @LastEditTime: 2020-06-24 20:39:56
+ * @LastEditTime: 2020-06-24 20:50:14
  * @Description: file content
 --> 
 
@@ -140,3 +140,11 @@ func gameOfLife(board [][]int)  {
     }  
 }
 ```
+
+Golang要点：
+
+- 多维数组的初始化,例如[3][3]int{{1,2,3}{4,5,6}},数组内要用{}这个括号把内容括起来。不想计算初始化数组大小的话也可以用...代替数组的大小变成[...][...]int{{1,2,3}{4,5,6}}。
+
+- Go不能连续使用关系运算符，比如`1 <= lives <= 2`这样写是错的。
+
+- for range循环，range之前只有一个接收变量的的话，只能取出index，两个接收变量的话，第一个是index，第二个是value。
