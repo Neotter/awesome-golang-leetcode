@@ -2,7 +2,7 @@
  * @Author: Nettor
  * @Date: 2020-06-24 13:43:02
  * @LastEditors: Nettor
- * @LastEditTime: 2020-06-24 20:37:10
+ * @LastEditTime: 2020-06-24 20:39:56
  * @Description: file content
 --> 
 
@@ -114,7 +114,7 @@ Output:
 ```go
 func gameOfLife(board [][]int)  {
     r, c := len(board), len(board[0])
-    neighbors := [...][2]int{{0, 1}, {0, -1}, {1, 0}, {-1, 0}, {-1, -1}, {1, 1}, {-1, 1}, {1, 1}}
+    neighbors := [...][2]int{{0, 1}, {0, -1}, {1, 0}, {-1, 0}, {-1, -1}, {1, 1}, {-1, 1}, {1, -1}}
     for i := 0; i < r; i++ {
         for j := 0; j < c; j++ {
             lives := 0
@@ -124,7 +124,7 @@ func gameOfLife(board [][]int)  {
                 }
             }
             //这里只有board[i][j] = 3 和= 2 是因为
-            //当board[i][j] == 1 && lives < 2 && lives >= 4，状态转换是死 <- 活，对应的值还是1，所以board[i][j]不需要变，同理当board[i][j] == 0 && lives != 3的时候状态转换是死 <- 死，对应的值还是0，board[i][j]不需要变。
+            //当board[i][j] == 1 && lives < 2 && lives >= 4，状态转换是死 <- 活，对应的值还是1，所以board[i][j]不需要变，同理当board[i][j] == 0 && lives != 3的时候状态转换是死 <- 死，对应的值还是0，board[i][j]不需要变。 
             if board[i][j] == 1 && 2 <= lives && lives < 4{
                 board[i][j] = 3
             }
