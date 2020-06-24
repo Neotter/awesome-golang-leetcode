@@ -2,7 +2,7 @@
  * @Author: Nettor
  * @Date: 2020-06-08 15:35:19
  * @LastEditors: Nettor
- * @LastEditTime: 2020-06-24 13:37:08
+ * @LastEditTime: 2020-06-24 13:42:39
  * @Description: file content
 -->
 
@@ -37,6 +37,8 @@
 | 328 | [Odd Even Linked List](./Question/328)                    | Linked List                           |
 | 347 | [Top K Frequent Elements](./Question/347)                 | Hash Table, Heap                      |
 | 378 | [Kth Smallest Element in a Sorted Matrix](./Question/378) | Binary Search,Heap                    |
+| 289 | [Game of Life](./Question/289)                            | Array                                 |
+
 
 # Hard
 | #   | Title | Tag |
