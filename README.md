@@ -2,11 +2,13 @@
  * @Author: Nettor
  * @Date: 2020-06-08 15:35:19
  * @LastEditors: Nettor
- * @LastEditTime: 2020-06-25 16:22:49
+ * @LastEditTime: 2020-06-25 16:28:06
  * @Description: file content
 -->
 
 # Awesome-Golang-LeetCode
+
+LeetCode Question with Golang Solution
 
 [![GO](https://img.shields.io/badge/Language-Go-Blue.svg?logo=go)](./)
 [![lastCommit](https://img.shields.io/github/last-commit/Neotter/awesome-golang-leetcode)](./)
