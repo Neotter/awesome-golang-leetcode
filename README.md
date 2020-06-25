@@ -2,7 +2,7 @@
  * @Author: Nettor
  * @Date: 2020-06-08 15:35:19
  * @LastEditors: Nettor
- * @LastEditTime: 2020-06-24 13:42:39
+ * @LastEditTime: 2020-06-25 16:22:49
  * @Description: file content
 -->
 
@@ -11,14 +11,14 @@
 [![GO](https://img.shields.io/badge/Language-Go-Blue.svg?logo=go)](./)
 [![lastCommit](https://img.shields.io/github/last-commit/Neotter/awesome-golang-leetcode)](./)
 
-使用Golang刷LeetCode也有一段时间了，一开始的目的只是用刷题熟悉一下Golang的语法，也因此遇到许多坑(比如Slice)。
-所以在此记录一下自己刷过的题，我会尽量挑明代码中所用到的Golang的知识点。随着做过的题目数目增多，相信你也会被Golang的简洁与高效爽到。
+使用 Golang 刷 LeetCode 也有一段时间了，一开始的目的只是用刷题熟悉一下 Golang 的语法，也因此遇到许多坑(比如 Slice)。
+所以在此记录一下自己刷过的题，我会尽量挑明代码中所用到的 Golang 的知识点。随着做过的题目数目增多，相信你也会被 Golang 的简洁与高效爽到。
 
-目前主力更新HotHits里面Medium和Hard的题目，Easy随缘更新,少数题因为开始是Java或者Python做过的，懒得改了，所以保留Java和Python的代码，有时间再进行重构。
+目前主力更新 HotHits 里面 Medium 和 Hard 的题目，Easy 随缘更新,少数题因为开始是 Java 或者 Python 做过的，懒得改了，所以保留 Java 和 Python 的代码，有时间再进行重构。
 
-本仓库的Difficulty目录按照难度分类,Question目录按照序号分类,TopHits目录按照LeetCode上的Top Hits栏目分类，SourceCode目录存放go的源代码。
+本仓库的 Difficulty 目录按照难度分类,Question 目录按照序号分类,TopHits 目录按照 LeetCode 上的 Top Hits 栏目分类，SourceCode 目录存放 go 的源代码。
 
-```以下Title点击被传送到Question目录```
+`以下Title点击被传送到Question目录`
 
 # Medium
 
@@ -38,13 +38,16 @@
 | 347 | [Top K Frequent Elements](./Question/347)                 | Hash Table, Heap                      |
 | 378 | [Kth Smallest Element in a Sorted Matrix](./Question/378) | Binary Search,Heap                    |
 | 289 | [Game of Life](./Question/289)                            | Array                                 |
-
+| 454 | [4Sum II](./Question/454)                                 | Hash Table, Binary Search             |
 
 # Hard
+
 | #   | Title | Tag |
 | --- | ----- | --- |
 
+
 # Easy
+
 | #   | Title | Tag |
 | --- | ----- | --- |
 
