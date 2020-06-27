@@ -2,7 +2,7 @@
  * @Author: Nettor
  * @Date: 2020-06-08 15:35:19
  * @LastEditors: Nettor
- * @LastEditTime: 2020-06-27 20:39:05
+ * @LastEditTime: 2020-06-27 21:27:46
  * @Description: file content
 -->
 
@@ -41,7 +41,7 @@ LeetCode Question with Golang Solution
 | 378 | [Kth Smallest Element in a Sorted Matrix](./Question/378) | Binary Search,Heap                    |
 | 289 | [Game of Life](./Question/289)                            | Array                                 |
 | 454 | [4Sum II](./Question/454)                                 | Hash Table, Binary Search             |
-| 65  | [Unique Paths](./Question/62)                             | Array, Dynamic Programming            |
+| 65  | [Unique Paths](./Question/65)                             | Array, Dynamic Programming            |
 
 # Hard
 
