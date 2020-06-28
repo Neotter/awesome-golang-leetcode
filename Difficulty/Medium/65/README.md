@@ -2,7 +2,7 @@
  * @Author: Nettor
  * @Date: 2020-06-27 20:39:33
  * @LastEditors: Nettor
- * @LastEditTime: 2020-06-27 21:13:08
+ * @LastEditTime: 2020-06-27 21:30:13
  * @Description: file content
 -->
 
@@ -62,6 +62,7 @@ robot 只能从上往下走和从左往右走,即是说只能从`(i-1, j)`或者
 ```go
 func uniquePaths(m int, n int) int {
 
+    //Go的二维数组的初始化有点麻烦
     dp := make([][]int,m)
     for i := 0; i < m; i++{
         dp[i] = make([]int,n)

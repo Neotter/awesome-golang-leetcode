@@ -2,7 +2,7 @@
  * @Author: Nettor
  * @Date: 2020-06-08 15:35:19
  * @LastEditors: Nettor
- * @LastEditTime: 2020-06-27 21:27:46
+ * @LastEditTime: 2020-06-28 15:40:32
  * @Description: file content
 -->
 
@@ -18,7 +18,7 @@ LeetCode Question with Golang Solution
 
 目前主力更新 HotHits 里面 Medium 和 Hard 的题目，Easy 随缘更新,少数题因为开始是 Java 或者 Python 做过的，懒得改了，所以保留 Java 和 Python 的代码，有时间再进行重构。
 
-本仓库的 Difficulty 目录按照难度分类,Question 目录按照序号分类,TopHits 目录按照 LeetCode 上的 Top Hits 栏目分类，SourceCode 目录存放 go 的源代码。
+本仓库的 Difficulty 目录按照难度分类,Question 目录按照序号分类,TopHits 目录按照 LeetCode 上的 Top Hits 栏目分类。
 
 `以下Title点击被传送到Question目录`
 
@@ -42,6 +42,7 @@ LeetCode Question with Golang Solution
 | 289 | [Game of Life](./Question/289)                            | Array                                 |
 | 454 | [4Sum II](./Question/454)                                 | Hash Table, Binary Search             |
 | 65  | [Unique Paths](./Question/65)                             | Array, Dynamic Programming            |
+| 384 | [Shuffle an Array](./Question/384)                        | -                                     |
 
 # Hard
 

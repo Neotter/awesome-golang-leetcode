@@ -2,7 +2,7 @@
  * @Author: Nettor
  * @Date: 2020-06-25 15:40:15
  * @LastEditors: Nettor
- * @LastEditTime: 2020-06-25 16:21:45
+ * @LastEditTime: 2020-06-27 20:48:31
  * @Description: file content
 -->
 
@@ -39,6 +39,8 @@ The two tuples are:
 再遍历 C 和 D，让 C 和 D 的 Element 两两相加，让结果的负数作为 key， 在 hashmap 查找是否存在这个 key 对应的 value。
 
 前后两个遍历时间复杂度都为 O(n^2)。
+
+## Go Solution
 
 ```go
 func fourSumCount(A []int, B []int, C []int, D []int) int {
