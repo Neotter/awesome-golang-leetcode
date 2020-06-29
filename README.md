@@ -2,7 +2,7 @@
  * @Author: Nettor
  * @Date: 2020-06-08 15:35:19
  * @LastEditors: Nettor
- * @LastEditTime: 2020-06-28 15:40:32
+ * @LastEditTime: 2020-06-28 19:46:58
  * @Description: file content
 -->
 
@@ -43,6 +43,9 @@ LeetCode Question with Golang Solution
 | 454 | [4Sum II](./Question/454)                                 | Hash Table, Binary Search             |
 | 65  | [Unique Paths](./Question/65)                             | Array, Dynamic Programming            |
 | 384 | [Shuffle an Array](./Question/384)                        | -                                     |
+| 341 | [Flatten Nested List Iterator](./Question/341)            | Stack, Design                         |
+| 11  | [Container With Most Water](./Question/11)                | Array, Two Pointers                   |
+| 208 | [Implement Trie (Prefix Tree)](./Question/208)            | Design Trie                           |
 
 # Hard
 
