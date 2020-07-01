@@ -2,7 +2,7 @@
  * @Author: Nettor
  * @Date: 2020-06-08 15:35:19
  * @LastEditors: Nettor
- * @LastEditTime: 2020-06-30 15:28:02
+ * @LastEditTime: 2020-07-01 16:39:18
  * @Description: file content
 -->
 
@@ -24,30 +24,30 @@ LeetCode Question with Golang Solution
 
 # Medium
 
-| #   | Title                                                                       | Tag                                   |
-| --- | --------------------------------------------------------------------------- | ------------------------------------- |
-| 22  | [Generate Parentheses](./Question/22)                                       | String, Backtracking                  |
-| 46  | [Permutations](./Question/46)                                               | Backtracking                          |
-| 48  | [Rotate Image](./Question/48)                                               | Array                                 |
-| 49  | [Group Anagrams](./Question/49)                                             | Hash Table, String                    |
-| 78  | [Subsets](./Question/78)                                                    | Array, Backtracking, Bit Manipulation |
-| 94  | [Binary Tree Inorder Traversal](./Question/94)                              | Hash Table, Stack, Tree               |
-| 102 | [Binary Tree Level Order Traversal](./Question/102)                         | Tree, Breadth-first Search            |
-| 215 | [Kth Largest Element in an Array](./Question/215)                           | Divide and Conquer, Heap              |
-| 230 | [Kth Smallest Element in a BST](./Question/230)                             | Binary Search, Tree                   |
-| 238 | [Product of Array Except Self](./Question/238)                              | Array                                 |
-| 328 | [Odd Even Linked List](./Question/328)                                      | Linked List                           |
-| 347 | [Top K Frequent Elements](./Question/347)                                   | Hash Table, Heap                      |
-| 378 | [Kth Smallest Element in a Sorted Matrix](./Question/378)                   | Binary Search, Heap                   |
-| 289 | [Game of Life](./Question/289)                                              | Array                                 |
-| 454 | [4Sum II](./Question/454)                                                   | Hash Table, Binary Search             |
-| 65  | [Unique Paths](./Question/65)                                               | Array, Dynamic Programming            |
-| 384 | [Shuffle an Array](./Question/384)                                          | -                                     |
-| 341 | [Flatten Nested List Iterator](./Question/341)                              | Stack, Design                         |
-| 11  | [Container With Most Water](./Question/11)                                  | Array, Two Pointers                   |
-| 208 | [Implement Trie (Prefix Tree)](./Question/208)                              | Design, Trie                          |
-| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](./Question/105) | Array, Tree, Depth-first Search       |
-
+| #   | Title                                                                       | Tag                                             |
+| --- | --------------------------------------------------------------------------- | ----------------------------------------------- |
+| 22  | [Generate Parentheses](./Question/22)                                       | String, Backtracking                            |
+| 46  | [Permutations](./Question/46)                                               | Backtracking                                    |
+| 48  | [Rotate Image](./Question/48)                                               | Array                                           |
+| 49  | [Group Anagrams](./Question/49)                                             | Hash Table, String                              |
+| 78  | [Subsets](./Question/78)                                                    | Array, Backtracking, Bit Manipulation           |
+| 94  | [Binary Tree Inorder Traversal](./Question/94)                              | Hash Table, Stack, Tree                         |
+| 102 | [Binary Tree Level Order Traversal](./Question/102)                         | Tree, Breadth-first Search                      |
+| 215 | [Kth Largest Element in an Array](./Question/215)                           | Divide and Conquer, Heap                        |
+| 230 | [Kth Smallest Element in a BST](./Question/230)                             | Binary Search, Tree                             |
+| 238 | [Product of Array Except Self](./Question/238)                              | Array                                           |
+| 328 | [Odd Even Linked List](./Question/328)                                      | Linked List                                     |
+| 347 | [Top K Frequent Elements](./Question/347)                                   | Hash Table, Heap                                |
+| 378 | [Kth Smallest Element in a Sorted Matrix](./Question/378)                   | Binary Search, Heap                             |
+| 289 | [Game of Life](./Question/289)                                              | Array                                           |
+| 454 | [4Sum II](./Question/454)                                                   | Hash Table, Binary Search                       |
+| 65  | [Unique Paths](./Question/65)                                               | Array, Dynamic Programming                      |
+| 384 | [Shuffle an Array](./Question/384)                                          | -                                               |
+| 341 | [Flatten Nested List Iterator](./Question/341)                              | Stack, Design                                   |
+| 11  | [Container With Most Water](./Question/11)                                  | Array, Two Pointers                             |
+| 208 | [Implement Trie (Prefix Tree)](./Question/208)                              | Design, Trie                                    |
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](./Question/105) | Array, Tree, Depth-first Search                 |
+| 279 | [Perfect Squares](./Question/279)                                           | Math, Dynamic Programming, Breadth-first Search |
 
 # Hard
 
