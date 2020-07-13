@@ -2,7 +2,7 @@
  * @Author: Nettor
  * @Date: 2020-06-08 15:35:19
  * @LastEditors: Nettor
- * @LastEditTime: 2020-07-09 13:15:02
+ * @LastEditTime: 2020-07-13 16:34:28
  * @Description: file content
 -->
 
@@ -51,6 +51,7 @@ LeetCode Question with Golang Solution
 | 103 | [Binary Tree Zigzag Level Order Traversal](./Question/103)                  | Stack, Tree, Breadth-first Search                                 |
 | 200 | [Number of Islands](./Question/200)                                         | Breadth-first Search,Depth-first Search,Union Find                |
 | 207 | [Course Schedule](./Question/207)                                           | Depth-first Search, Breadth-first Search, Graph, Topological Sort |
+| 210 | [Course Schedule II](./Question/210)                                        | Depth-first Search, Breadth-first Search, Graph, Topological Sort |
 
 # Hard
 
