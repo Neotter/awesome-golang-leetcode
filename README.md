@@ -2,7 +2,7 @@
  * @Author: Nettor
  * @Date: 2020-06-08 15:35:19
  * @LastEditors: Nettor
- * @LastEditTime: 2020-07-13 16:34:28
+ * @LastEditTime: 2020-07-14 15:36:24
  * @Description: file content
 -->
 
@@ -52,6 +52,7 @@ LeetCode Question with Golang Solution
 | 200 | [Number of Islands](./Question/200)                                         | Breadth-first Search,Depth-first Search,Union Find                |
 | 207 | [Course Schedule](./Question/207)                                           | Depth-first Search, Breadth-first Search, Graph, Topological Sort |
 | 210 | [Course Schedule II](./Question/210)                                        | Depth-first Search, Breadth-first Search, Graph, Topological Sort |
+| 127 | [Word Ladder](./Question/127)                                               | Breadth-first Search                                              |
 
 # Hard
 
